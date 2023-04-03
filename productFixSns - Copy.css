@@ -1,0 +1,123 @@
+body{
+   background-color: black;
+}
+
+#div{
+   position: relative;
+   left: -150px;
+   top: -70px;
+}
+
+#div1{
+
+position: relative;
+top: 286px;
+left: 203px;
+}
+
+#div3{
+   position: relative;
+   top: 278px;
+   right: -200px;
+  
+}
+
+#div4{
+   position: relative;
+   left: -90px;
+   top: 371px;
+}
+
+#lab1{
+   font-size: 50px;
+   color: white;
+}
+#first{
+   font-size: 50px;
+   color: black;
+   
+   
+ }
+
+ #lab2{
+   font-size: 50px;
+   color: white;
+ }
+ #second{
+    font-size: 50px;
+    color: black;
+   
+  }
+
+  #div4  button{
+   color: white;
+   background-color: black;
+   
+   position: relative;
+   left: 275px;
+   top: -107px;
+   font-size: 50px;
+   margin: 20px;
+   border-color: white;
+  }
+  #label{
+   color: white;
+   background-color: black;
+   width: 20px;
+   position: relative;
+   left: 330px;
+   top: -87px;
+   font-size: 50px;
+   margin: 20px;
+   
+  }
+
+  @media (max-width: 600px) {
+   #div{
+      position: relative;
+      left: -150px;
+      top: -70px;
+   }
+   
+   #div1{
+   
+   position: relative;
+   top: 286px;
+   left: 203px;
+   }
+   
+   #div3{
+      position: relative;
+      top: 278px;
+      right: -200px;
+     
+   }
+   
+   #div4{
+      text-align: left;
+      position: relative;
+      left: -90px;
+      top: 371px;
+   }
+   
+   #lab1{
+      font-size: 30px;
+      color: white;
+   }
+   #first{
+      font-size: 30px;
+      color: black;
+      
+      
+    }
+   
+    #lab2{
+      font-size: 30px;
+      color: white;
+    }
+    #second{
+       font-size: 30px;
+       color: black;
+      
+     }
+   }
